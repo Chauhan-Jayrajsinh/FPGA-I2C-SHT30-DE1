@@ -5,6 +5,9 @@
 <p align="center">
   Custom Verilog I2C Core | FSM Based Design | Real Hardware Integration
 </p>
+<p align="center">
+  Custom Verilog I2C Core • FSM Based Architecture • Real Hardware Integration
+</p>
 
 FPGA I2C Interface for SHT30 Sensor (DE1 Cyclone II)
 📌 Project Objective
