@@ -1,3 +1,11 @@
+<h1 align="center">
+  I2C Master Interface for SHT30 on DE1 FPGA
+</h1>
+
+<p align="center">
+  Custom Verilog I2C Core | FSM Based Design | Real Hardware Integration
+</p>
+
 FPGA I2C Interface for SHT30 Sensor (DE1 Cyclone II)
 📌 Project Objective
 
