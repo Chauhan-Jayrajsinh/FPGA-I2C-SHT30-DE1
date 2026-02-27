@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=1000&pause=2000&color=FF00CE&center=true&height=52&lines=FPGA+I2C+Master+Interface;Sensirion+SHT30+Integration;DE1+Cyclone+II+%7C+Verilog+RTL;Hardware+Embedded+Protocol" />
 </p>
 
-FPGA I2C Interface for SHT30 Sensor (DE1 Cyclone II)
 📌 Project Objective
 
 This project implements a custom I2C Master in Verilog to interface the Sensirion SHT30-DIS temperature and humidity sensor with the Altera DE1 Cyclone II FPGA board.
