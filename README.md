@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/demo/?font=Montserrat&duration=1000&pause=2000&color=FF00CE&background=CA00FF00&center=true&height=52&lines=FPGA+I2C+Master+Interface;Sensirion+SHT30+Integration;DE1+Cyclone+II+%7C+Verilog+RTL;Hardware+Embedded+Protocol" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=1000&pause=2000&color=FF00CE&center=true&height=52&lines=FPGA+I2C+Master+Interface;Sensirion+SHT30+Integration;DE1+Cyclone+II+%7C+Verilog+RTL;Hardware+Embedded+Protocol" />
 </p>
 
 FPGA I2C Interface for SHT30 Sensor (DE1 Cyclone II)
