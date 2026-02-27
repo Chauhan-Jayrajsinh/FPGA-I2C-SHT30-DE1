@@ -1,35 +1,13 @@
-# ===============================
-# Quartus Generated Files
-# ===============================
 db/
 incremental_db/
 output_files/
 simulation/modelsim/
 *.rpt
 *.summary
-*.smsg
 *.sof
 *.pof
-*.jic
-*.qws
-
-# ===============================
-# ModelSim Files
-# ===============================
-work/
-transcript
-*.wlf
-
-# ===============================
-# Temporary Files
-# ===============================
 *.log
-*.bak
-*.tmp
-*.swp
-
-# ===============================
-# OS Files
-# ===============================
+*.wlf
+work/
 .DS_Store
 Thumbs.db
